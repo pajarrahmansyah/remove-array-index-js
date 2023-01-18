@@ -1,0 +1,19 @@
+{
+    "name": "@pajarrahmansyah/remove-array-index-js",
+    "type": "module",
+    "version": "1.0.0",
+    "description": "Javascript removing by index or value from array",
+    "author": "Pajar Rahmansyah",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "npm",
+        "package",
+        "pajarrahmansyah"
+    ],
+    "license": "MIT",
+    "repository": "pajarrahmansyah/remove-array-index-js",
+    "homepage": "https://github.com/pajarrahmansyah/remove-array-index-js"
+}
